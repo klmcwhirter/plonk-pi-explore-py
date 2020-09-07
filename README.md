@@ -19,8 +19,9 @@ This repository is a master repo for a experimentation with the PLONK stack on R
   * [PLONK stack](https://www.openfaas.com/blog/plonk-stack/)
   * [Gateway](https://docs.openfaas.com/architecture/gateway/)
   * [NATS](https://github.com/nats-io) - tie functions to events (data streaming or messaging)
-* kubernetes-dashboard
+* [kubernetes-dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
 
 ## K3S extensions
-* inlets - get public IP
-* Traefik
+* [inlets](https://docs.inlets.dev/#/) - cloud native tunnel; get public IP
+* [HPAv2 with custom metrics](https://docs.openfaas.com/tutorials/kubernetes-hpa-custom-metrics/) - auto-scaling
+* [Traefik ingress controller](https://docs.traefik.io/) - open source edge routing; part of k3s
