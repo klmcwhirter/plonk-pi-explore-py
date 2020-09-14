@@ -13,6 +13,7 @@ This repository is a master repo for a experimentation with the PLONK stack on R
 ## Tools
 * [Ansible](https://www.ansible.com/) - automate provisioning, configuration, installation, etc.
 * [Arkade](https://github.com/alexellis/arkade) - tool installer from repo
+* [Helm](https://helm.sh/) - package manager for K8S
 * [k3sup](https://github.com/alexellis/k3sup) - helper tool for installing k3s
 * [k3s](https://rancher.com/docs/k3s/latest/en/) - lightweight k8s implementation
 * [OpenFAAS](https://www.openfaas.com/)
